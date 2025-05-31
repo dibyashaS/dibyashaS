@@ -2,11 +2,12 @@
 
 <<!--
 - 🔭 I am Dibyasha and I’m currently working on software development projects, and on the path to becoming a software engineer (but open to all domains)!
-- 🌱 I’m currently learning Kotlin and Dart to build my ASL game application over the summer
-- 👯 I’m looking to collaborate on Python projects with developers
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m from Knox College!
+- 👯 First "tech" I owned: A Barbie flip-phone!
+- 🤔 Hometown: Kathmandu, Nepal
+- 💬 Field of study: Computer Science and Economics!
+- 📫 Contact info: dsharma@knox.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love dogs, and I am from Nepal!
+- ⚡ Fun fact: I love dogs, and I am from Nepal! Always ready to listen, learn and collaborate on   
+    impact-driven projects!
 -->
