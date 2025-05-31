@@ -16,6 +16,6 @@
 -->
 
 <div>
-    <img src="C:\Users\dibya\Downloads\dibyashaS\assets\terminal.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
