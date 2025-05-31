@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 ###
 - 🔭 I am Dibyasha and I’m currently working on software development projects, and on the path to becoming a software engineer (but open to all domains)!
