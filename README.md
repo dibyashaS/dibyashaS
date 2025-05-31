@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+###
 - 🔭 I am Dibyasha and I’m currently working on software development projects, and on the path to becoming a software engineer (but open to all domains)!
 - 🌱 I’m from Knox College!
 - 👯 First "tech" I owned: A Barbie flip-phone!
@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dogs, and I am from Nepal! Always ready to listen, learn and collaborate on   
     impact-driven projects!
--->
+
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
